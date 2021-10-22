@@ -1,0 +1,5 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\bankConsoleDemo\bin\Debug\bankConsoleDemo.exe.config
+C:\Users\Administrator\AppData\Local\Temporary Projects\bankConsoleDemo\bin\Debug\bankConsoleDemo.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\bankConsoleDemo\bin\Debug\bankConsoleDemo.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\bankConsoleDemo\obj\Debug\bankConsoleDemo.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\bankConsoleDemo\obj\Debug\bankConsoleDemo.pdb
